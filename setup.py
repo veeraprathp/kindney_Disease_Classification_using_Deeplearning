@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "kindney_Disease_Classification_using_Deeplearning"
 AUTHOR_USER_NAME = "veeraprathp"
-SRC_REPO = "cnnClassifier"
+SRC_REPO = "cnnclassifier"
 AUTHOR_EMAIL = "veeratpr123@gmail.com"
 
 

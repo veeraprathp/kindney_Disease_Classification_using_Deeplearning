@@ -1,13 +1,10 @@
 Metadata-Version: 2.1
-Name: cnnClassifier
+Name: cnnclassifier
 Version: 0.0.0
 Summary: A small python package for CNN app
 Home-page: https://github.com/veeraprathp/kindney_Disease_Classification_using_Deeplearning
 Author: veeraprathp
 Author-email: veeratpr123@gmail.com
-License: UNKNOWN
 Project-URL: Bug Tracker, https://github.com/veeraprathp/kindney_Disease_Classification_using_Deeplearning/issues
-Platform: UNKNOWN
 
 # kindney_Disease_Classification_using_Deeplearning
-
